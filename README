@@ -1,0 +1,7 @@
+First run 'bundle install' to install dependencies.
+
+Run the tests by running:
+rspec bluewolf_spec.rb
+
+Run the program by typing
+ruby bluewolf.rb
